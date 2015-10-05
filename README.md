@@ -3,7 +3,7 @@ tagrelator
 This is the result of a programming project in university.
 
 the approach is taken from a paper that can be found here.
-http://www.site.uottawa.ca/~mdislam/publications/LREC_06_242.pdf
+http://www.lrec-conf.org/proceedings/lrec2006/pdf/242_pdf.pdf
 
 The aim is to compute a score for a pair of words that expresses their similarity in meaning.
 For a pair like cat - tiger the score should be rather high, meaning that these two words describe similar concepts,
